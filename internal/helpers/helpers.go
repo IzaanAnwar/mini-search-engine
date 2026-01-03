@@ -42,6 +42,7 @@ func SanitizeWord(word string) string {
 
 func ReadUserInput() []string {
 	var reader = bufio.NewReader(os.Stdin)
+	log.Print("Enter search query: ")
 	message, err := reader.ReadString('\n')
 	if err != nil {
 		panic("Failed to read user input")

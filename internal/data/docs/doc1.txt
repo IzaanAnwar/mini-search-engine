@@ -1,0 +1,3 @@
+Distributed systems are designed to run across multiple machines.
+Consistency availability and partition tolerance are fundamental tradeoffs.
+Engineers often rely on replication and consensus algorithms.

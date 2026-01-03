@@ -1,0 +1,3 @@
+Search engines use inverted indexes to map words to documents.
+Query performance depends heavily on efficient intersection of posting lists.
+Ranking and relevance scoring are applied after retrieval.

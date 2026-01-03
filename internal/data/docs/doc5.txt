@@ -1,0 +1,3 @@
+Load balancers distribute incoming traffic across backend servers.
+Common algorithms include round robin least connections and hashing.
+Proper load balancing improves reliability and throughput.

@@ -1,0 +1,3 @@
+Kubernetes orchestrates containerized applications at scale.
+Scheduling networking and service discovery are handled by the control plane.
+Clusters must tolerate node failures and network partitions.

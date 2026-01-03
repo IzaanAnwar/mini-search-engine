@@ -1,0 +1,3 @@
+System design interviews evaluate tradeoffs between scalability reliability and simplicity.
+Candidates must reason about bottlenecks data flow and failure modes.
+Clear communication is as important as technical correctness.
